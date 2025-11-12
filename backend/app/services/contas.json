@@ -1,0 +1,28 @@
+[
+  {
+    "produto": "Coxinha",
+    "valor_total": 10.0,
+    "parcelas": 1,
+    "valor_parcela": null,
+    "data_primeira_parcela": null,
+    "tipo_pagamento": "Débito",
+    "cartao": "Nubank",
+    "banco": null,
+    "data": "2025-11-12",
+    "local": null,
+    "observacoes": null
+  },
+  {
+    "produto": "volanten g920",
+    "valor_total": 2000.0,
+    "parcelas": 4,
+    "valor_parcela": 500.0,
+    "data_primeira_parcela": "2025-09-12",
+    "tipo_pagamento": "cartão",
+    "cartao": "meio tio crédito donisete",
+    "banco": null,
+    "data": "2025-09-12",
+    "local": null,
+    "observacoes": null
+  }
+]
